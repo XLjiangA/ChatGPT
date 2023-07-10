@@ -355,7 +355,7 @@
 }
 
 .chat-message-user > .chat-message-container > .chat-message-item {
-  background-color: var(--second);
+  background-color: rgba(0,0,0,.2);
 
   &:hover {
     min-width: 0;
